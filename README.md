@@ -8,7 +8,7 @@ I build tools for local AI workflows and data analysis, with an emphasis on clea
 | --- | --- | --- |
 | [FitTwin](https://github.com/hyrenlab/fittwin) · [Live demo](https://hyrenlab.github.io/fittwin/) | A browser-local body profile and garment-sizing toolkit with TypeScript SDK and local MCP tools | Alpha; manual measurements, transparent sizing rules, optional AI companion |
 | [Delphi Energy](https://github.com/hyrenlab/delphi-energy) | A Python CLI for structured, multi-role decision review | Experimental; model critique and an inspectable ledger, not independent fact verification |
-| [Commerce Analytics](https://github.com/hyrenlab/lyricoconut-commerce-analytics-demo) | SQL/Python analysis and a bilingual Streamlit dashboard for an apparel-commerce scenario | Synthetic data; explicit metric definitions and reproducible analysis |
+| [Commerce Analytics](https://github.com/hyrenlab/commerce-analytics) | SQL/Python analysis and a bilingual Streamlit dashboard for an apparel-commerce scenario | Synthetic data; explicit metric definitions and reproducible analysis |
 
 ## 中文
 
